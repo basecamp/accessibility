@@ -1,0 +1,1 @@
+- Touch point size
