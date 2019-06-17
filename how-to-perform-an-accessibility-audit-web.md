@@ -10,6 +10,7 @@ There are a few browser extensions designed to detect accessibility issues, and 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) auditing tool, built directly into Google Chrome!
 - And [Firefox's integrated accessibility checker](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector)
 
+
 Here's what a example report from axe looks like:
 ![axe sample report](images/axe-report-1.png)
 
