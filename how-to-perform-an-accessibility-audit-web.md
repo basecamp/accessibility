@@ -1,14 +1,14 @@
 # How to perform a basic accessibility audit on the web
 
 - [How to perform a basic accessibility audit on the web](#How-to-perform-a-basic-accessibility-audit-on-the-web)
-  - [1. Use an accessibility checking browser extension](#1-Use-an-accessibility-checking-browser-extension)
+  - [1. Scan for violations using a browser extension](#1-Scan-for-violations-using-a-browser-extension)
   - [2. Every focusable element on the page should have an outline or other visible indicator of focus.](#2-Every-focusable-element-on-the-page-should-have-an-outline-or-other-visible-indicator-of-focus)
   - [3. Make sure heading levels are semantic](#3-Make-sure-heading-levels-are-semantic)
   - [4. Check color contast](#4-Check-color-contast)
       - [Tools for checking contrast levels](#Tools-for-checking-contrast-levels)
   - [5. Hide decorative elements from assistive technology](#5-Hide-decorative-elements-from-assistive-technology)
 
-## 1. Use an accessibility checking browser extension
+## 1. Scan for violations using a browser extension
 **Who is this for?** General accessibility/usability
 
 There are a few browser extensions designed to detect accessibility issues, and explain how to fix them. Keep in mind these won't catch *all* accessibility issues, only a subset of them.
