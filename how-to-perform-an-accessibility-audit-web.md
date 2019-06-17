@@ -9,11 +9,11 @@ There are a few browser extensions designed to detect accessibility issues, and 
 - [tota11y](https://khan.github.io/tota11y/), an accessibility (a11y) visualization toolkit from Khan Academy.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) auditing tool, built directly into Google Chrome!
 - And [Firefox's integrated accessibility checker](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector)
----
-### Here's what a example report from axe looks like:
+
+Here's what a example report from axe looks like:
 ![axe sample report](images/axe-report-1.png)
 
-### The column on the right lists all of the accessibility violations. When you select a violation and click the "Highlight" control, the respective element will be called out:
+The column on the right lists all of the accessibility violations. When you select a violation and click the "Highlight" control, the respective element will be called out:
 ![axe violations](images/axe-report-violations.png)
 
 ---
