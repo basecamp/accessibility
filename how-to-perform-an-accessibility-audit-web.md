@@ -1,6 +1,6 @@
 # How to perform a basic accessibility audit on the web
 
-## 1. Run an accessibility checker
+## 1. Use an accessibility checking browser extension
 **Who is this for?** General accessibility/usability
 
 There are a few browser extensions designed to detect accessibility issues, and explain how to fix them. Keep in mind these won't catch *all* accessibility issues, only a subset of them.
