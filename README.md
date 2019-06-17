@@ -5,4 +5,9 @@ While working on a new feature it's a great time to find and fix a number of com
 For some background, there's a split between the sorts of issues that can be detected using an automated accessibility checker, and those which require manually navigating through a page using keyboard navigation (no mouse required!), and again using a screenreader. Then there are higher level evaluations of the design and interactions that come from experience with using assistive technology and understanding the nuance around how people use them.
 
 ## Table of Contents
-- [How we design and test for accessibility](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md)
+### Chapter 1
+- [How we design and test for accessibility: On the web](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md)
+- [How we design and test for accessibility: On Android]
+- [How we design and test for accessibility: On iOS]
+### Chapter 2
+- [Using a screen reader]
