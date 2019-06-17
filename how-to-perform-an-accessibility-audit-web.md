@@ -1,5 +1,13 @@
 # How to perform a basic accessibility audit on the web
 
+- [How to perform a basic accessibility audit on the web](#How-to-perform-a-basic-accessibility-audit-on-the-web)
+  - [1. Use an accessibility checking browser extension](#1-Use-an-accessibility-checking-browser-extension)
+  - [2. Every focusable element on the page should have an outline or other visible indicator of focus.](#2-Every-focusable-element-on-the-page-should-have-an-outline-or-other-visible-indicator-of-focus)
+  - [3. Make sure heading levels are semantic](#3-Make-sure-heading-levels-are-semantic)
+  - [4. Check color contast](#4-Check-color-contast)
+      - [Tools for checking contrast levels](#Tools-for-checking-contrast-levels)
+  - [5. Hide decorative elements from assistive technology](#5-Hide-decorative-elements-from-assistive-technology)
+
 ## 1. Use an accessibility checking browser extension
 **Who is this for?** General accessibility/usability
 
@@ -41,14 +49,14 @@ WCAG 2 level AA requires a contrast ratio of at least `4.5:1` for normal text an
 Level AAA requires a contrast ratio of at least `7:1` for normal text and `4.5:1` for large text.
 Large text is defined as 14 point (typically 18.66px) and bold or larger, or 18 point (typically 24px) or larger.
 
-#### Tools for checking contrast levels:
+#### Tools for checking contrast levels
 - [In Chrome dev tools, viewing the contrast ratio of a text element in the Color Picker](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference#contrast)
 - [ColorZilla for Firefox](https://www.colorzilla.com/firefox/)
 - [Contrast Mac app](https://usecontrast.com)
 
-## 5. Mark decorative elements with `aria-hidden="true"`
+## 5. Hide decorative elements from assistive technology
 **Who is this for?** People using a screen reader
 
 Elements that serve only a purpose visually or repeat information that's conveyed via alternate means, such as by a nearby text label, should be hidden from screen readers to prevent annoying redudancy. Some common examples include horizontal rule `<hr>` elements, or avatars when the name of the person they refer to are repeated nearby.
 
-It's easiest to test this out by navigating through the page using a screen reader.
+It's easiest to test this out by [navigating through the page using a screen reader](https://github.com/basecamp/accessibility/blob/master/how-to-use-a-screen-reader.md). When you determine that an element should be omitted, add the attribute `aria-hidden="true"` to hide it from the accessibility tree. Then re-test using a screen reader to make sure this changes what you were intending.
