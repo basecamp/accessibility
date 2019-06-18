@@ -5,6 +5,7 @@
 
 ## Reading
 
+- [Printable cheat sheet](https://moritzgiessmann.de/accessibility-cheatsheet/): Practical approaches to Universal Design for making your website/webapp accessible to everyone
 - Inclusive Components book: Accessible web interfaces, piece by piece ([pdf](https://github.com/basecamp/accessibility/blob/master/files/Inclusive%20Components%20-%20Heydon%20Pickering.pdf))([epub/mobi/azw3](https://github.com/basecamp/accessibility/blob/master/files/Inclusive_Compenents_other_formats.zip)).
   - **Table of Contents:**
   - Toggle Buttons
@@ -19,6 +20,9 @@
   - Data Tables
   - Modal Dialogs
   - Cards
+- [HTML5 Accessibility support matrix](https://www.html5accessibility.com)
+- [Building accessible web apps - where to start?](https://marcus.io/blog/building-a11y-web-apps-where-to-start)
+- [Accessible HTML Content Patterns](https://ericwbailey.github.io/accessible-html-content-patterns/)
 
 ## Video
 
