@@ -10,10 +10,16 @@ Accessibility issues come in all shapes and sizes.
 
 ## Table of Contents
 ### Section 1
+
 - [How to audit for accessibility on the web](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md)
 - [How to audit for accessibility on the Android]
 - [How to audit for accessibility on the iOS]
+
 ### Section 2
+
 - [Using a screen reader]
+
 ### Section 3
+
+- Techniques
 - [Useful Resources](https://github.com/basecamp/accessibility/blob/master/useful-resources.md)
