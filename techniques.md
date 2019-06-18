@@ -6,6 +6,7 @@
   - [Some nuance around `aria-label` and `aria-labelledby`](#Some-nuance-around-aria-label-and-aria-labelledby)
 - [`aria-live`](#aria-live)
 - [`<details>` pop-up menus](#details-pop-up-menus)
+- [Indicating focus (& usually never hiding it)](#Indicating-focus--usually-never-hiding-it)
 - [Links: Mixed decorated + undecorated links](#Links-Mixed-decorated--undecorated-links)
 - [ARIA/HTML5 Landmarks](#ARIAHTML5-Landmarks)
 
@@ -25,6 +26,10 @@
 ## `aria-live`
 
 ## `<details>` pop-up menus
+
+## Indicating focus (& usually never hiding it)
+
+[Indicating focus to improve accessibility](https://hiddedevries.nl/en/blog/2019-06-06-indicating-focus-to-improve-accessibility): An article on why you should **never** use `:focus { outline: none;}`
 
 ## Links: Mixed decorated + undecorated links
 
