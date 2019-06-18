@@ -1,12 +1,11 @@
 # How to audit for accessibility on the web
 
-- [How to audit for accessibility on the web](#How-to-audit-for-accessibility-on-the-web)
-  - [1. Scan for violations using a browser extension](#1-Scan-for-violations-using-a-browser-extension)
-  - [2. Every focusable element on the page should have an outline or other visible indicator of focus.](#2-Every-focusable-element-on-the-page-should-have-an-outline-or-other-visible-indicator-of-focus)
-  - [3. Make sure heading levels are semantic](#3-Make-sure-heading-levels-are-semantic)
-  - [4. Check color contast](#4-Check-color-contast)
-      - [Tools for checking contrast levels](#Tools-for-checking-contrast-levels)
-  - [5. Hide decorative elements from assistive technology](#5-Hide-decorative-elements-from-assistive-technology)
+- [1. Scan for violations using a browser extension](#1-Scan-for-violations-using-a-browser-extension)
+- [2. Every focusable element on the page should have an outline or other visible indicator of focus.](#2-Every-focusable-element-on-the-page-should-have-an-outline-or-other-visible-indicator-of-focus)
+- [3. Make sure heading levels are semantic](#3-Make-sure-heading-levels-are-semantic)
+- [4. Check color contast](#4-Check-color-contast)
+    - [Tools for checking contrast levels](#Tools-for-checking-contrast-levels)
+- [5. Hide decorative elements from assistive technology](#5-Hide-decorative-elements-from-assistive-technology)
 
 ---
 
