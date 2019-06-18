@@ -1,6 +1,6 @@
-# How to perform a basic accessibility audit on the web
+# How to audit for accessibility on the web
 
-- [How to perform a basic accessibility audit on the web](#How-to-perform-a-basic-accessibility-audit-on-the-web)
+- [How to audit for accessibility on the web](#How-to-audit-for-accessibility-on-the-web)
   - [1. Scan for violations using a browser extension](#1-Scan-for-violations-using-a-browser-extension)
   - [2. Every focusable element on the page should have an outline or other visible indicator of focus.](#2-Every-focusable-element-on-the-page-should-have-an-outline-or-other-visible-indicator-of-focus)
   - [3. Make sure heading levels are semantic](#3-Make-sure-heading-levels-are-semantic)
@@ -44,7 +44,7 @@ While the extensions in Section 1 will include heading level violations, the [he
 
 When the contrast of an element is too similar to that of another its background or label it can be difficult to see. These failures will get raised by the browser extensions, through they're clear to point out when an element's background color could not be determined due to a background image.
 
-WCAG 2 level AA requires a contrast ratio of at least `4.5:1` for normal text and `3:1` for large text, and a contrast ratio of at least `3:1` for graphics and user interface components (such as form input borders). 
+WCAG 2 level AA requires a contrast ratio of at least `4.5:1` for normal text and `3:1` for large text, and a contrast ratio of at least `3:1` for graphics and user interface components (such as form input borders).
 
 Level AAA requires a contrast ratio of at least `7:1` for normal text and `4.5:1` for large text.
 Large text is defined as 14 point (typically 18.66px) and bold or larger, or 18 point (typically 24px) or larger.

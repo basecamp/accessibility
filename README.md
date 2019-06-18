@@ -10,8 +10,8 @@ Accessibility issues come in all shapes and sizes.
 
 ## Table of Contents
 ### Chapter 1
-- [How we design and test for accessibility: On the web](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md)
-- [How we design and test for accessibility: On Android]
-- [How we design and test for accessibility: On iOS]
+- [How to audit for accessibility on the web](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md)
+- [How to audit for accessibility on the Android]
+- [How to audit for accessibility on the iOS]
 ### Chapter 2
 - [Using a screen reader]
