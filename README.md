@@ -9,9 +9,11 @@ Accessibility issues come in all shapes and sizes.
 3. Then there are higher level evaluations of the design and interactions that come from experience with using assistive technology and understanding the nuance around how people use them.
 
 ## Table of Contents
-### Chapter 1
+### Section 1
 - [How to audit for accessibility on the web](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md)
 - [How to audit for accessibility on the Android]
 - [How to audit for accessibility on the iOS]
-### Chapter 2
+### Section 2
 - [Using a screen reader]
+### Section 3
+- [Useful Resources](https://github.com/basecamp/accessibility/blob/master/useful-resources.md)
