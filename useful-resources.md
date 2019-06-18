@@ -1,5 +1,8 @@
 # Useful Resources
 
+- [Reading](#Reading)
+- [Video](#Video)
+
 ## Reading
 
 - Inclusive Components book: Accessible web interfaces, piece by piece ([pdf](https://github.com/basecamp/accessibility/blob/master/files/Inclusive%20Components%20-%20Heydon%20Pickering.pdf))([epub/mobi/azw3](https://github.com/basecamp/accessibility/blob/master/files/Inclusive_Compenents_other_formats.zip)).
