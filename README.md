@@ -21,5 +21,5 @@ Accessibility issues come in all shapes and sizes.
 
 ### Section 3
 
-- Techniques
+- [Techniques](https://github.com/basecamp/accessibility/blob/master/techniques.md)
 - [Useful Resources](https://github.com/basecamp/accessibility/blob/master/useful-resources.md)
