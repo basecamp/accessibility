@@ -8,8 +8,10 @@
       - [Tools for checking contrast levels](#Tools-for-checking-contrast-levels)
   - [5. Hide decorative elements from assistive technology](#5-Hide-decorative-elements-from-assistive-technology)
 
+---
+
 ## 1. Scan for violations using a browser extension
-**Who is this for?** General accessibility/usability
+*Who is this for?* General accessibility/usability
 
 There are a few browser extensions designed to detect accessibility issues, and explain how to fix them. Keep in mind these won't catch *all* accessibility issues, only a subset of them.
 - My current favorite for Chrome and Firefox is [axe](https://www.deque.com/axe/)
@@ -27,20 +29,24 @@ The column on the right lists all of the accessibility violations. When you sele
 
 ---
 ## 2. Every focusable element on the page should have an outline or other visible indicator of focus.
-**Who is this for?** Users with low vision
+*Who is this for?* Users with low vision
 
 This is pretty simple to check. Just tab through each screen and make sure every element you land on has an outline or other visual indicator of focus.
 
+---
+
 ## 3. Make sure heading levels are semantic
-**Who is this for?** People using a screen reader
+*Who is this for?* People using a screen reader
 
 For someone using a screen reader, heading levels are important for getting an overview of the structure of a page. Therefore, heading levels should first and foremost be used for semantics, and only secondarily for styling.
 
 While the extensions in Section 1 will include heading level violations, the [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en) Chrome extension is an easy way to review heading levels in one spot. Here's what a sample report looks like:
 ![sample headingsmap report](images/headingsmap-report.png)
 
+---
+
 ## 4. Check color contast
-**Who is this for?** People with low vision and color blindness
+*Who is this for?* People with low vision and color blindness
 
 When the contrast of an element is too similar to that of another its background or label it can be difficult to see. These failures will get raised by the browser extensions, through they're clear to point out when an element's background color could not be determined due to a background image.
 
@@ -54,8 +60,10 @@ Large text is defined as 14 point (typically 18.66px) and bold or larger, or 18 
 - [ColorZilla for Firefox](https://www.colorzilla.com/firefox/)
 - [Contrast Mac app](https://usecontrast.com)
 
+---
+
 ## 5. Hide decorative elements from assistive technology
-**Who is this for?** People using a screen reader
+*Who is this for?* People using a screen reader
 
 Elements that serve only a purpose visually or repeat information that's conveyed via alternate means, such as by a nearby text label, should be hidden from screen readers to prevent annoying redudancy. Some common examples include horizontal rule `<hr>` elements, or avatars when the name of the person they refer to are repeated nearby.
 
