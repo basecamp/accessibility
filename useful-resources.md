@@ -23,6 +23,7 @@
 - [HTML5 Accessibility support matrix](https://www.html5accessibility.com)
 - [Building accessible web apps - where to start?](https://marcus.io/blog/building-a11y-web-apps-where-to-start)
 - [Accessible HTML Content Patterns](https://ericwbailey.github.io/accessible-html-content-patterns/)
+- [Rob Dodson's articles on Google Developer](https://developers.google.com/web/resources/contributors/robdodson)
 
 ## Video
 
