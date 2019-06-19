@@ -46,6 +46,10 @@ For someone using a screen reader, heading levels are important for getting an o
 While the extensions in Section 1 will include heading level violations, the [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en) Chrome extension is an easy way to review heading levels in one spot. Here's what a sample report looks like:
 ![sample headingsmap report](images/headingsmap-report.png)
 
+Further reading about the importance of headings for people using assistive technology:
+- [Heading levels should only increase by one](https://dequeuniversity.com/rules/axe/3.2/heading-order)
+- [Page must contain a level-one heading](https://dequeuniversity.com/rules/axe/3.2/page-has-heading-one)
+
 ---
 
 ## 4. Check color contast
