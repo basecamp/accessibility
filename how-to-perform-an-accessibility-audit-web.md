@@ -39,11 +39,17 @@ This is pretty simple to check. Just tab through each screen and make sure every
 
 ## 3. Make sure heading levels are semantic
 
-*Who is this for?* People using a screen reader
+*Who is this for?* People using a screen reader, those with cognitive disabilities.
 
 For someone using a screen reader, heading levels are important for getting an overview of the structure of a page. Therefore, heading levels should first and foremost be used for semantics, and only secondarily for styling.
 
-While the extensions in Section 1 will include heading level violations, the [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en) Chrome extension is an easy way to review heading levels in one spot. Here's what a sample report looks like:
+> Making texts larger helps guide the eye around the page. Using headings and making them visually apparent is especially helpful for users with cognitive disabilities.
+
+> If the underlying code for a pages headings is correct, screen reader users can also benefit from headings. Screen reader users can navigate a page according to its headings, listen to a list of all headings, and skip to a desired heading to begin reading at that point. Screen reader users can use headings to skip the repeated blocks of content like headers, menus, and sidebars, for example.
+
+> In 2017, WebAIM asked [how screen reader users preferred to find information on lengthy web pages](https://webaim.org/projects/screenreadersurvey7/#finding). Almost 70% of respondents said they preferred to use headings on a page. Clearly, organizing pages using headings is one of the best accessibility strategies available.
+
+While the extensions in [Section 1](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md#1-scan-for-violations-using-a-browser-extension) will include heading level violations, the [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en) Chrome extension is an easy way to review heading levels in one spot. Here's what a sample report looks like:
 ![sample headingsmap report](images/headingsmap-report.png)
 
 Further reading about the importance of headings for people using assistive technology:
