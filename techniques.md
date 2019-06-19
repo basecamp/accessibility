@@ -25,6 +25,10 @@
 
 ## `aria-live`
 
+## ARIA/HTML5 Landmarks
+
+https://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html
+
 ## `<details>` pop-up menus
 
 ## Indicating focus (& usually never hiding it)
@@ -41,6 +45,14 @@ This is useful when you want part of the link to be decorated, such as "click he
 
 ![mixed links](images/mixed-link.png)
 
-## ARIA/HTML5 Landmarks
+## Managing focus on navigation/page load
 
-https://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html
+* For single page applications, focus should be set to the first `<h1>` on page load using Javascript, and a `tabindex
+* In this **rare** case the focus indicator on the `<h1>` should be overridden with:
+```
+h1:focus {
+  outline: none;
+ }
+```
+
+Check out Rob Dodson's [video](https://www.youtube.com/watch?time_continue=44&v=srLRSQg6Jgg) and [explanation](https://dev.to/robdodson/managing-focus-64l) for more about this.
