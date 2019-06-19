@@ -1,6 +1,7 @@
 # Techniques & Best Practices
 
 - [`aria-hidden`](#aria-hidden)
+  - [Basic overview](#Basic-overview)
   - [Hiding SVGs (like avatars) from screen readers](#Hiding-SVGs-like-avatars-from-screen-readers)
 - [`aria-label` and `aria-labelledby`](#aria-label-and-aria-labelledby)
   - [Some nuance around `aria-label` and `aria-labelledby`](#Some-nuance-around-aria-label-and-aria-labelledby)
@@ -12,6 +13,11 @@
 - [Managing focus on navigation/page load](#Managing-focus-on-navigationpage-load)
 
 ## `aria-hidden`
+
+### Basic overview
+
+>It’s important to understand that ARIA can only affect the *semantics* of an element; it has no effect on the *behavior* of the element. While you can make an element hidden to screen readers with `aria-hidden=”true”`, that does not change the focus behavior for that element. For offscreen interactive content, you will often need to combine `aria-hidden=”true”` and `tabindex=”-1”` to make sure it’s truly removed from the keyboard flow. The proposed [inert attribute](https://github.com/WICG/inert) aims to make this easier by combining the behavior of both attributes. (Via [Google accessibility docs](https://developers.google.com/web/fundamentals/accessibility/how-to-review))
+
 
 ### Hiding SVGs (like avatars) from screen readers
 
