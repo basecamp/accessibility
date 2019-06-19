@@ -24,6 +24,8 @@
 - [Building accessible web apps - where to start?](https://marcus.io/blog/building-a11y-web-apps-where-to-start)
 - [Accessible HTML Content Patterns](https://ericwbailey.github.io/accessible-html-content-patterns/)
 - [Rob Dodson's articles on Google Developer](https://developers.google.com/web/resources/contributors/robdodson)
+- [Google's Web Fundamentals Accessibility documentation](https://developers.google.com/web/fundamentals/accessibility/)
+- [How To Do an Accessibility Review via Rob Dodsen at Google](https://developers.google.com/web/fundamentals/accessibility/how-to-review)
 
 ## Video
 
