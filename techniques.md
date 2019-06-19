@@ -5,10 +5,11 @@
 - [`aria-label` and `aria-labelledby`](#aria-label-and-aria-labelledby)
   - [Some nuance around `aria-label` and `aria-labelledby`](#Some-nuance-around-aria-label-and-aria-labelledby)
 - [`aria-live`](#aria-live)
+- [ARIA/HTML5 Landmarks](#ARIAHTML5-Landmarks)
 - [`<details>` pop-up menus](#details-pop-up-menus)
 - [Indicating focus (& usually never hiding it)](#Indicating-focus--usually-never-hiding-it)
 - [Links: Mixed decorated + undecorated links](#Links-Mixed-decorated--undecorated-links)
-- [ARIA/HTML5 Landmarks](#ARIAHTML5-Landmarks)
+- [Managing focus on navigation/page load](#Managing-focus-on-navigationpage-load)
 
 ## `aria-hidden`
 
