@@ -13,7 +13,7 @@
 
 *Who is this for?* General accessibility/usability
 
-There are a few browser extensions designed to detect accessibility issues, and explain how to fix them. Keep in mind these won't catch *all* accessibility issues, only a subset of them.
+There are a few browser extensions designed to detect accessibility issues, and explain how to fix them. Keep in mind these won't catch all accessibility issues, only a subset of them. These checks should be run *both* against the normal desktop sized viewport, and again for mobile views.
 
 - My current favorite for Chrome and Firefox is [axe](https://www.deque.com/axe/)
 - [Chrome's built-in accessibility audit](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference)
