@@ -3,8 +3,9 @@
 - [1. Scan for violations using a browser extension](#1-Scan-for-violations-using-a-browser-extension)
 - [2. Every focusable element on the page should have an outline or other visible indicator of focus.](#2-Every-focusable-element-on-the-page-should-have-an-outline-or-other-visible-indicator-of-focus)
 - [3. Make sure heading levels are semantic](#3-Make-sure-heading-levels-are-semantic)
-- [4. Check color contast](#4-Check-color-contast)
-    - [Tools for checking contrast levels](#Tools-for-checking-contrast-levels)
+- [4. Color contast](#4-Color-contast)
+  - [Tools for checking contrast levels](#Tools-for-checking-contrast-levels)
+  - [More resources](#More-resources)
 - [5. Hide decorative elements from assistive technology](#5-Hide-decorative-elements-from-assistive-technology)
 
 ---
@@ -58,22 +59,27 @@ Further reading about the importance of headings for people using assistive tech
 
 ---
 
-## 4. Check color contast
+## 4. Color contast
 
 *Who is this for?* People with low vision and color blindness
 
-When the contrast of an element is too similar to that of another its background or label it can be difficult to see. These failures will get raised by the browser extensions, through they're clear to point out when an element's background color could not be determined due to a background image.
+When the contrast of an element is too similar to that of another its background or label it can be difficult to see. These failures will get raised by the browser extensions. There are two dimensions to consider when thinking about contast: <span style="color:cyan">color</span> and <span style="font-size:24px">size</span>.
 
-WCAG 2 level AA requires a contrast ratio of at least `4.5:1` for normal text and `3:1` for large text, and a contrast ratio of at least `3:1` for graphics and user interface components (such as form input borders).
+- WCAG 2 level AA requires a contrast ratio of at least `4.5:1` for normal text and `3:1` for large text. Large text is defined as 14 point (typically 18.66px) **and bold** or larger, or 18 point (typically 24px) or larger
 
-Level AAA requires a contrast ratio of at least `7:1` for normal text and `4.5:1` for large text.
-Large text is defined as 14 point (typically 18.66px) and bold or larger, or 18 point (typically 24px) or larger.
+- For graphics and user interface components (such as form input borders), a contrast ratio of at least `3:1` is required.
 
-#### Tools for checking contrast levels
+- Level AAA requires a contrast ratio of at least `7:1` for normal text and `4.5:1` for large text.
 
-- [In Chrome dev tools, viewing the contrast ratio of a text element in the Color Picker](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference#contrast)
-- [ColorZilla for Firefox](https://www.colorzilla.com/firefox/)
-- [Contrast Mac app](https://usecontrast.com)
+### Tools for checking contrast levels
+
+- [In Chrome dev tools, viewing the contrast ratio of a text element in the Color Picker](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference#contrast): Provides a handy curve for colors above and below the recommendation.
+- [ColorZilla for Firefox & Chrome](https://www.colorzilla.com)
+- [Contrast Mac app](https://usecontrast.com): Handy app that lives in your menu bar. (**Important note:** Does not consider text size in contrast calculation.)
+
+### More resources
+
+- [Webaim article on Contrast and Color Accessibility](https://webaim.org/articles/contrast/)
 
 ---
 
