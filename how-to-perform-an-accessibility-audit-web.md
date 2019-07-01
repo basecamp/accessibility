@@ -71,6 +71,10 @@ When the contrast of an element is too similar to that of another its background
 
 - Level AAA requires a contrast ratio of at least `7:1` for normal text and `4.5:1` for large text.
 
+As an example, notice how in [the following example](https://webaim.org/resources/contrastchecker/?fcolor=CC4400&bcolor=F2F2F2), a larger text size allows the contrast check to pass, while at smaller text sizes the contrast isn't up to par:
+
+![Contrast example](images/contrast-example.png)
+
 ### Tools for checking contrast levels
 
 - [In Chrome dev tools, viewing the contrast ratio of a text element in the Color Picker](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference#contrast): Provides a handy curve for colors above and below the recommendation.
