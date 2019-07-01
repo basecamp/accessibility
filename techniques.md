@@ -44,6 +44,10 @@ https://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html
 
 ## Links: Mixed decorated + undecorated links
 
+*Who is this for?* People using a screen reader
+
+When someone using a screen reader lands on a link with a name such as *"click here"*, that's exactly what the screen reader will announce and the context is totally unclear. To improve this, you can wrap the entire line in a link so the full context is conveyed.
+
 This is useful when you want part of the link to be decorated, such as "click here", but the explanatory text before the link is necessary for someone using a screen reader.
 
 *Example:* ["Change this" button isn't self explanatory for people using a screen reader](https://3.basecamp.com/2914079/buckets/11898988/todos/1851452489) via Haystack: Bundles
