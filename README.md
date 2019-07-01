@@ -12,6 +12,7 @@ Accessibility issues come in all shapes and sizes.
 ### Section 1
 
 - [How to audit for accessibility on the web](https://github.com/basecamp/accessibility/blob/master/how-to-perform-an-accessibility-audit-web.md)
+- [How to design for accessibility on the web](https://github.com/basecamp/accessibility/blob/master/how-to-design-for-accessibility.md)
 - [How to audit for accessibility on the Android]
 - [How to audit for accessibility on the iOS]
 
