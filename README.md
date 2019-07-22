@@ -1,1 +1,1 @@
-# Checkout [the wiki](https://github.com/basecamp/accessibility/wiki) 👀
+# Check out [the wiki](https://github.com/basecamp/accessibility/wiki) 👀
