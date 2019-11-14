@@ -1,3 +1,5 @@
+# Designing for Accessibility on the Web
+
 1. [Heading levels should be sequential](#heading-levels-should-be-sequential)
 2. [Use appropriate landmarks for each section of page content](#use-appropriate-landmarks-for-each-section-of-page-content)
 3. [Don't hide focus indicators](#dont-hide-focus-indicators)
