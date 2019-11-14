@@ -13,12 +13,12 @@ Accessibility issues come in all shapes and sizes.
 ### Section 1
 
 - [Designing for Accessibility on the Web](Section-1/Designing-for-Accessibility-on-the-Web.md)
-- [Performing an audit for accessibility on the Web](../accessibility/Section-1/Autiditing-Accessibility-On-The-Web.md)
-- [Android: How to develop and test for accessibility](../accessibility/Section-1/Android:-How-to-develop-and-test-for-accessibility.md)
-- [iOS: How to develop and test for accessibility](../accessibility/Section-1/iOS:-How-to-develop-and-test-for-accessibility.md)
+- [Performing an audit for accessibility on the Web](Section-1/Autiditing-Accessibility-On-The-Web.md)
+- [Android: How to develop and test for accessibility](Section-1/Android:-How-to-develop-and-test-for-accessibility.md)
+- [iOS: How to develop and test for accessibility](Section-1/iOS:-How-to-develop-and-test-for-accessibility.md)
 
 ### Section 2
 
-- [Screen reader setup and testing](../accessibility/Section-2/Screen-reader-setup-and-testing.md)
-- [Techniques & Best Practices](../accessibility/Section-2/Techniques-and-Best-Practices.md)
-- [Sources & Useful Resources](../accessibility/Section-2/Sources-&-Resources.md)
+- [Screen reader setup and testing](Section-2/Screen-reader-setup-and-testing.md)
+- [Techniques & Best Practices](Section-2/Techniques-and-Best-Practices.md)
+- [Sources & Useful Resources](Section-2/Sources-&-Resources.md)
