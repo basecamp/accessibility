@@ -22,7 +22,7 @@
 ### Hiding SVGs (like avatars) from screen readers
 
 [via Scott O'Hara](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
-![decorative svgs](../accessibility/images/decorative-svgs.png)
+![decorative svgs](/images/decorative-svgs.png)
 
 ## `aria-label` and `aria-labelledby`
 
@@ -54,7 +54,7 @@ This is useful when you want part of the link to be decorated, such as "click he
 
 *Technique:* https://github.com/basecamp/haystack/commit/6e9c6f350d92176cd922c7583edf07ff2db1a00a
 
-![mixed links](../accessibility/images/mixed-link.png)
+![mixed links](/images/mixed-link.png)
 
 ## Managing focus on navigation/page load
 
