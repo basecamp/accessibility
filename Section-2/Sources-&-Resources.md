@@ -12,7 +12,7 @@
 
 ## Books
 
-* *Inclusive Components book: Accessible web interfaces, piece by piece* by Heydon Pickering. Site license: [pdf](files/Inclusive_Components_Heydon_Pickering.pdf), [epub/mobi/azw3](files/Inclusive_Compenents_other_formats.zip). Some highlights include menus and menu buttons, notifications and `aria-live`, modal dialogs, tooltips, and an example to-do list.
+* *Inclusive Components book: Accessible web interfaces, piece by piece* by Heydon Pickering. [Stored in Basecamp](https://3.basecamp.com/2914079/buckets/2317081/messages/1585884229) in PDF, epub, mobi, and azw3 formats. Some highlights include menus and menu buttons, notifications and `aria-live`, modal dialogs, tooltips, and an example to-do list.
 
 ## Web references
 
