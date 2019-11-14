@@ -12,7 +12,7 @@ Accessibility issues come in all shapes and sizes.
 
 ### Section 1
 
-- [Designing for Accessibility on the Web](../accessibility/Section-1/Designing-for-Accessibility-on-the-Web.md)
+- [Designing for Accessibility on the Web](Section-1/Designing-for-Accessibility-on-the-Web.md)
 - [Performing an audit for accessibility on the Web](../accessibility/Section-1/Autiditing-Accessibility-On-The-Web.md)
 - [Android: How to develop and test for accessibility](../accessibility/Section-1/Android:-How-to-develop-and-test-for-accessibility.md)
 - [iOS: How to develop and test for accessibility](../accessibility/Section-1/iOS:-How-to-develop-and-test-for-accessibility.md)
