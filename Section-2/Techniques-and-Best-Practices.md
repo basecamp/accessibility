@@ -1,3 +1,5 @@
+# Techniques and Best Practices
+
 1. [`aria-hidden`](#aria-hidden)
    1. [Basic overview](#basic-overview)
    2. [Hiding SVGs (like avatars) from screen readers](#hiding-svgs-like-avatars-from-screen-readers)

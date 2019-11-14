@@ -1,4 +1,4 @@
-# Overview
+# iOS: How to develop and test for accessibility
 
 Validating iOS app accessibility can be accomplished using Xcode Accessibility Inspector and the VoiceOver screen reader built into iOS. Before running through the app with VoiceOver it's useful to run Accessibility Inspector to fix any obvious issues.
 

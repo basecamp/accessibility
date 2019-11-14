@@ -1,3 +1,5 @@
+# Performing an audit for accessibility on the Web
+
 These are some techniques for finding and fixing the most common accessibility violations, and making sure your feature plays well with a screen reader. Doing this review prior to QA will help to keep the QA cycle focused on the aspects of accessibility and quality that aren't as obvious.
 
 1. [Scan for violations using a browser extension](#scan-for-violations-using-a-browser-extension)
