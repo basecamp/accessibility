@@ -157,4 +157,4 @@ Example code snippet:
 
 ## Don't use the `title` attribute
 
-This has been best documented [here](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute/).
+This has been best documented [here](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute/). [This handy chart](https://www.powermapper.com/tests/screen-readers/attributes/#title) reflects the spotty support across screen readers.
