@@ -10,6 +10,7 @@
 8. [Don’t use characters in CSS as separators; screen readers will speak them](#dont-use-characters-in-css-as-separators-screen-readers-will-speak-them)
 9. [Include a skip navigation link so getting to the main page content is easy](#include-a-skip-navigation-link-so-getting-to-the-main-page-content-is-easy)
 10. [Infinite scrolling role and state](#infinite-scrolling-role-and-state)
+11. [Don't use the `title` attribute](#dont-use-the-title-attribute)
 
 ---
 
@@ -153,3 +154,7 @@ Example code snippet:
 </section>
 ```
 [Spec](http://w3c.github.io/aria/#feed), [Source 1](https://webplatform.news/issues/2019-07-24), [Source 2](https://www.deque.com/blog/introduction-to-feed-role-attribute/).
+
+## Don't use the `title` attribute
+
+This has been best documented [here](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute/).
