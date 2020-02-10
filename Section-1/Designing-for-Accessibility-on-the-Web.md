@@ -1,23 +1,48 @@
 # Designing for Accessibility on the Web
 
-1. [General Resources](#general-resources)
-2. [Heading levels should be sequential](#heading-levels-should-be-sequential)
-3. [Use appropriate landmarks for each section of page content](#use-appropriate-landmarks-for-each-section-of-page-content)
-4. [Don't hide focus indicators](#dont-hide-focus-indicators)
-5. [Links should convey the full context of the action](#links-should-convey-the-full-context-of-the-action)
-6. [Use non-visual spans to sprinkle in context](#use-non-visual-spans-to-sprinkle-in-context)
-7. [Hide decorative and redundant elements (like avatar SVGs) from screen readers](#hide-decorative-and-redundant-elements-like-avatar-svgs-from-screen-readers)
-8. [Screen reader must announce any changes that occur on screen](#screen-reader-must-announce-any-changes-that-occur-on-screen)
-9. [Don’t use characters in CSS as separators; screen readers will speak them](#dont-use-characters-in-css-as-separators-screen-readers-will-speak-them)
-10. [Include a skip navigation link so getting to the main page content is easy](#include-a-skip-navigation-link-so-getting-to-the-main-page-content-is-easy)
-11. [Infinite scrolling role and state](#infinite-scrolling-role-and-state)
-12. [Don't use the `title` attribute](#dont-use-the-title-attribute)
+* [General Resources](#general-resources)
+* [Tips for Writing Accessibly](#tips-for-writing-accessibly)
+* [Heading levels should be sequential](#heading-levels-should-be-sequential)
+* [Use appropriate landmarks for each section of page content](#use-appropriate-landmarks-for-each-section-of-page-content)
+* [Don't hide focus indicators](#dont-hide-focus-indicators)
+* [Links should convey the full context of the action](#links-should-convey-the-full-context-of-the-action)
+* [Use non-visual spans to sprinkle in context](#use-non-visual-spans-to-sprinkle-in-context)
+* [Hide decorative and redundant elements (like avatar SVGs) from screen readers](#hide-decorative-and-redundant-elements-like-avatar-svgs-from-screen-readers)
+* [Screen reader must announce any changes that occur on screen](#screen-reader-must-announce-any-changes-that-occur-on-screen)
+* [Don’t use characters in CSS as separators; screen readers will speak them](#dont-use-characters-in-css-as-separators-screen-readers-will-speak-them)
+* [Include a skip navigation link so getting to the main page content is easy](#include-a-skip-navigation-link-so-getting-to-the-main-page-content-is-easy)
+* [Infinite scrolling role and state](#infinite-scrolling-role-and-state)
+* [Don't use the `title` attribute](#dont-use-the-title-attribute)
 
 ---
 
 ## General Resources
 
 * [W3C Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/): A great overview of how to make sure common elements are accessible.
+
+## Tips for Writing Accessibly
+Via [A List Apart](https://alistapart.com/article/standards-for-writing-accessibly/). Some highlights below.
+
+### [Write Chronologically, Not Spatially](https://alistapart.com/article/standards-for-writing-accessibly/#section3)
+Rather than saying:
+* Click the OK button below to continue.
+* (A button that scrolls you to the top of a page): Go to top.
+
+Instead, say:
+* Next, select OK to continue.
+* Go to beginning.
+
+### [Describe the Action, Not the Behavior](https://alistapart.com/article/standards-for-writing-accessibly/#section6)
+Instead of microcopy that includes behavioral actions like:
+* Click
+* Tap
+* Press
+* See
+
+Try device-agnostic words that describe the action, irrespective of the interface, like:
+* Choose
+* Select
+* View
 
 ## Heading levels should be sequential
 
