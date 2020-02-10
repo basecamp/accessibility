@@ -4,7 +4,7 @@
 * [Tips for Writing Accessibly](#tips-for-writing-accessibly)
 * [Heading levels should be sequential](#heading-levels-should-be-sequential)
 * [Use appropriate landmarks for each section of page content](#use-appropriate-landmarks-for-each-section-of-page-content)
-* [Don't hide focus indicators](#dont-hide-focus-indicators)
+* [Don't ever hide focus indicators](#dont-ever-hide-focus-indicators)
 * [Links should convey the full context of the action](#links-should-convey-the-full-context-of-the-action)
 * [Use non-visual spans to sprinkle in context](#use-non-visual-spans-to-sprinkle-in-context)
 * [Hide decorative and redundant elements (like avatar SVGs) from screen readers](#hide-decorative-and-redundant-elements-like-avatar-svgs-from-screen-readers)
@@ -67,7 +67,7 @@ ARIA landmarks and their HTML5 equivalents are an important way for people using
 Reference: https://www.w3.org/TR/wai-aria-practices/examples/landmarks/index.html
 
 
-## Don't hide focus indicators
+## Don't ever hide focus indicators
 
 *Who is this for?* Low vision and keyboard navigation.
 
