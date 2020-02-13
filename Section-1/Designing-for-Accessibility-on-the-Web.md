@@ -19,6 +19,7 @@
 ## General Resources
 
 * [W3C Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/): A great overview of how to make sure common elements are accessible.
+* [A11Y Project](https://a11yproject.com/checklist/): A handy checklist for determining how accessible a page is.
 
 ## Tips for Writing Accessibly
 Via [A List Apart](https://alistapart.com/article/standards-for-writing-accessibly/). Some highlights below.
