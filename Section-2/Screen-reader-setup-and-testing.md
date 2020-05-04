@@ -61,6 +61,9 @@ Resources:
 - [Deque guide to NVDA shortcuts](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts#nvda-nvda_shortcut_keys)
 - [Webaim guide to NVDA shortcuts](https://webaim.org/resources/shortcuts/nvda)
 
+### Tips
+- If web app keyboard shortcuts aren't working, try olding your NVDA key while pressing the shortcut key. E.g. `NVDA` + `J/K` to navigate message list.
+
 ## JAWS on Windows
 
 JAWS is one of the two common screen readers used on Windows. It's rather expensive, but there's a trial that works in a 40 minute "demo" mode, requiring a restart after that time to resume using it. This should be fine for basic testing.
