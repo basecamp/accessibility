@@ -96,4 +96,4 @@ It's easiest to test this out by [navigating through the page using a screen rea
 
 *Who is this for?* People who are blind, low vision, and motor function challenges
 
-Jump over to [[Screen reader setup and testing | Screen-reader-setup-and-testing]] for a rundown of testing using a screen reader.
+Jump over to [Screen reader setup and testing](../Section-2/Screen-reader-setup-and-testing.md) for a rundown of testing using a screen reader.
